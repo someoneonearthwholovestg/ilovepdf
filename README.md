@@ -1,4 +1,4 @@
-https://heroku.com/deploy
+https://heroku.com/deploy?template=https://github.com/nabilanavab/fileguardianbot
 
 <head>
   <meta charset="UTF-8">
