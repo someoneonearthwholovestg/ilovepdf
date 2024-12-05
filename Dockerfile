@@ -18,4 +18,4 @@ COPY /ILovePDF .
 RUN apt-get install -y tree
 RUN tree
 
-CMD bash run.sh
+CMD python3 __main__.py
